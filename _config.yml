@@ -113,10 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name: "Sidra Fatima"
+  description: "I turn healthcare data into decisions that save lives."
+  location         : "In a Clean Dataset - Rare but Real"
   email            :
   links:
     - label: "Email"
