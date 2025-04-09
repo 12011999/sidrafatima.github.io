@@ -22,7 +22,8 @@ Catalent’s mission to deliver critical therapies faster and more reliably depe
 <p>This visual below simulates a real-world KPI dashboard for the Data & Project Analyst role at Catalent. It highlights delivery trends, vendor performance, and overall supply chain efficiency.</p>
 
 ### <img src="/assets/orders-pharma.png" alt="Orders Power BI Dashboard" style="width:100%; max-width:900px; border-radius:10px; border:1px solid #ccc; margin-top:10px;">
-![Catalent Dashboard](/assets/orders-pharma.png)
+![Catalent Dashboard](https://12011999.github.io/sidrafatima.github.io/assets/orders-pharma.png)
+
 
 <br><br>
 
