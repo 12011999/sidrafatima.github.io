@@ -15,6 +15,23 @@ This Power BI dashboard was built to simulate the real-world responsibilities of
 
 Catalent’s mission to deliver critical therapies faster and more reliably depends on clear, actionable insights from supply chain operations. This dashboard provides a centralized view to monitor on-time delivery, lead times, inventory levels, and backorder status—all of which are critical to proactive decision-making.
 
+<hr>
+
+<h2>📊 Power BI Supply Chain Dashboard Preview</h2>
+
+<p>This visual below simulates a real-world KPI dashboard for the Data & Project Analyst role at Catalent. It highlights delivery trends, vendor performance, and overall supply chain efficiency.</p>
+
+<img src="/assets/orders-pharma.png" alt="Catalent Power BI Dashboard" style="width:100%; max-width:900px; border-radius:10px; border:1px solid #ccc; margin-top:10px;">
+
+<br><br>
+
+<a href="/assets/orders-pharma.pbix" download>
+  <button style="background-color:#0066cc; color:white; padding:10px 20px; font-size:16px; border:none; border-radius:6px; cursor:pointer;">
+    ⬇️ Download Power BI File (.pbix)
+  </button>
+</a>
+
+
 ### ⚙️ Skills Demonstrated
 
 - Power BI data modeling and DAX
@@ -30,7 +47,4 @@ Catalent’s mission to deliver critical therapies faster and more reliably depe
 - Vendor Performance Scorecard
 - Internal Request Log with Status Breakdown
 
-### 🔍 Looking Ahead
-
-Once live, this dashboard will be embedded here and fully interactive. It reflects the level of precision, efficiency, and insight I aim to bring to a role like the one at Catalent.
 
