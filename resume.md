@@ -5,15 +5,6 @@ permalink: /resume/
 author_profile: true
 ---
 
-<iframe src="/assets/resume_fatimaa.pdf" width="100%" height="800px" style="border: none;">
-  This browser does not support PDFs. Please download the PDF to view it:<br>
-  <a href="/assets/resume_fatimaa.pdf">Download Resume (PDF)</a>
-</iframe>
----
-layout: page
-title: "My Resume"
-permalink: /resume/
----
 
 ## 📄 Resume Overview
 
@@ -25,7 +16,9 @@ This page provides access to my professional resume in both **preview** and **do
 
 You can preview my resume below. For the best experience, download the full PDF version.
 
-<img src="/assets/sidra_resume_preview.png" alt="Sidra Fatima Resume Preview" style="width:100%; max-width:850px; border:1px solid #ddd; margin-top:15px;">
+<img src="/assets/resume_fatimaa_page-0001.png" alt="Sidra Fatima Resume Preview" style="width:100%; max-width:850px; border:1px solid #ddd; margin-top:15px;">
+<img src="/assets/resume_fatimaa_page-0002.png" alt="Sidra Fatima Resume Preview" style="width:100%; max-width:850px; border:1px solid #ddd; margin-top:15px;">
+
 
 ---
 
