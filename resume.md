@@ -16,11 +16,8 @@ This page provides access to my professional resume in both **preview** and **do
 
 You can preview my resume below. For the best experience, download the full PDF version.
 
-<img src="/assets/resume_fatimaa_page-0001.png" alt="Sidra Fatima Resume Preview" style="width:100%; max-width:850px; border:1px solid #ddd; margin-top:15px;">
-<img src="/assets/resume_fatimaa_page-0002.png" alt="Sidra Fatima Resume Preview" style="width:100%; max-width:850px; border:1px solid #ddd; margin-top:15px;">
-
-
----
+![Resume](https://12011999.github.io/sidrafatima.github.io/assets/resume_fatimaa_page-0001.png)
+![Resume](https://12011999.github.io/sidrafatima.github.io/assets/resume_fatimaa_page-0002.png)
 
 ## ⬇️ Download My Resume
 
