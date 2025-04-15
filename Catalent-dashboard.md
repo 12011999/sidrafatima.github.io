@@ -14,6 +14,21 @@ This Power BI dashboard was built to simulate the real-world responsibilities of
 ### 🧠 Why It Matters
 
 Catalent’s mission to deliver critical therapies faster and more reliably depends on clear, actionable insights from supply chain operations. This dashboard provides a centralized view to monitor on-time delivery, lead times, inventory levels, and backorder status—all of which are critical to proactive decision-making.
+<hr>
+
+<h2>📊 Power BI Inventory Management Dashboard Preview</h2>
+
+
+![Catalent Dashboard](https://12011999.github.io/sidrafatima.github.io/assets/pharma_inventory_report.png)
+
+
+<br><br>
+
+<a href="/assets/pharma_inventory_report.pbix" download>
+  <button style="background-color:#0066cc; color:white; padding:10px 20px; font-size:16px; border:none; border-radius:6px; cursor:pointer;">
+    ⬇️ Download Power BI File (.pbix)
+  </button>
+</a>
 
 <hr>
 
