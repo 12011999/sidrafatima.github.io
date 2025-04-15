@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "📊 Business Operations Dashboard Suite"
-permalink: /dashboard/
+permalink: /demo-dashboard/
 author_profile: true
 ---
 
