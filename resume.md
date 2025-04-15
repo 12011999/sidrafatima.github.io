@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "📄 My Resume"
 permalink: /resume/
 author_profile: true
 ---
@@ -16,8 +15,8 @@ This page provides access to my professional resume in both **preview** and **do
 
 You can preview my resume below. For the best experience, download the full PDF version.
 
-![Resume](https://12011999.github.io/sidrafatima.github.io/assets/resume_fatimaa_page-0001.png)
-![Resume](https://12011999.github.io/sidrafatima.github.io/assets/resume_fatimaa_page-0002.png)
+![Resume](https://12011999.github.io/sidrafatima.github.io/assets/resume_fatimaa_page-0001.jpg)
+![Resume](https://12011999.github.io/sidrafatima.github.io/assets/resume_fatimaa_page-0002.jpg)
 
 ## ⬇️ Download My Resume
 
