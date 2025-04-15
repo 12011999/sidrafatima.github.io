@@ -1,4 +1,4 @@
-# main links
+mo# main links
 main:
   - title: "About"
     url: /about/
@@ -7,4 +7,4 @@ main:
   - title: "Resume"
     url: /resume/
   - title: "Dashboard"
-    url: /catalent-dashboard/
+    url: /demo-dashboard/
