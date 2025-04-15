@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Sidra Fatima"
 title_separator          : "-"
-subtitle                 : "Data that Heals" # site tagline that appears below site title in masthead
+subtitle                 : "Solving Problems That Matter With Data" # site tagline that appears below site title in masthead
 name                     : "Sidra Fatima"
 description              : "I turn healthcare data into decisions that save lives"
 url                      : "https://sidrafatima.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
